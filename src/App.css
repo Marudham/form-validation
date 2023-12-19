@@ -1,0 +1,32 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 9%;
+  background-color: cadetblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+}
+p{
+  color: red;
+}
+
+/* input{
+  display: flex;
+  justify-content: center;
+}
+
+lable{
+  display: flex;
+  justify-content: center;
+} */
